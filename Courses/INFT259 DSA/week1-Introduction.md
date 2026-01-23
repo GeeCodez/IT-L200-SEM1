@@ -12,11 +12,12 @@
 
 ### **DATA**
 
-#### Raw facts and describe a specific entity. eg: description, properties.
+#### Raw facts that describe a specific entity. eg: description, properties.
 
 
 
 **THREE TYPES OF DATA**
+##### data types define what kind of values can be stored and what operations can be performed on them
 
 * **Numeric Data eg:** float, integers, double, short, short int
 * **Boolean Data (**True, False)
@@ -26,10 +27,11 @@
 
 
 **CATEGORIES OF DATA** (get further explanation)
+##### Classification of data in terms of processing difficulty
 
-* **Structured Data -** can be processed to provide meaning ( age, date, numeric )
-* **Unstructured -** cannot be easily processed to provide meaning but can be edited in a specific way  (images)
-* **Semi-structured -** documents, html, json. Can be manipulated but not necessarily processed. 
+* **Structured Data -** has a fixed format and can be processed directly to provide meaning ( age, date, numeric )
+* **Unstructured -** has no fixed format and are hard to process directly (images, video, audio )
+* **Semi-structured -** documents, html, json. Has some structure but not easy to manipulate. common in APIs and web systems
 * read more ....
 
 
@@ -40,23 +42,22 @@
 
 Frameworks on which we can organize data. 
 
-**Data structures** deals with **how efficient/effective** we **manipulate and organize** data to make it use.
-
+**Data structures** is the systematic way of **organizing** and storing data that enables **efficient and effective manipulation** of that data
 
 
 **WAYS TO STRUCTURE DATA**
 
-1. **Linear data structures (5)**
+1. **Linear data structures (5)** data arranged sequentially 
 
 * Arrays 
 * Linked-list
-* Stacks
-* Queues
-* List
+* Stacks ( plates stacked on each other )
+* Queues ( people in a line )
+* List 
 
 
 
-**2. Non-linear (3)**
+**2. Non-linear (3)** data arranged in a hierachical or networked form
 
 * Graphs
 * Charts
@@ -68,8 +69,8 @@ Frameworks on which we can organize data.
 
 
 
-* Searching algorithms - methods use to search for a particular data in a group of data
-* Sorting Algorithms - methods used to sort data in a list of data
+* Searching algorithms -used to find a specific value (Linear search, binary search)
+* Sorting Algorithms - to arrange data in order ( bubble sort, selection sort)
 
-
+**Structure + algorithm gives meaning to data**
 
