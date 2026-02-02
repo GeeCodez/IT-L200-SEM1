@@ -1,16 +1,16 @@
 # DATABASE SYSTEMS, CONCEPTS AND DESIGN - Dr. MICHAEL OPOKU
 
-**Database**: a collection of related data. Examples: university data, hospital data, school data.
+**Database**: an organized collection of related data in a computer for easy access, retrieval and manipulation. Examples: university data, hospital data, school data.
 
 **Data**: refers to a collection of raw facts that can be processed to become an information 
 
-**Database management systems (DBMS)** are systems that help to create, retrieve and update data in a database and also they help to store the data in the database
+**Database management systems (DBMS)** are software that make it easy to store, manage, retreive and manage data. 
 
-##Functions of DMBS - Ms. Farida
-* Defining 
-* Creating 
-* Manipulation
-* Sharing
+## Functions of DMBS - Ms. Farida
+* Defining database 
+* Creating databases
+* Manipulating data
+* Sharing data
 * read more about databases and database design ......
 
 **Information** is a processed data.
@@ -21,7 +21,7 @@
 
 *make the mistakes today and correct them to work towards a better future, every mistake is an opportunity to set a new goal.*- Dr. Michael Opoku
 
-##Advantages of databases over file system - Answers from class
+## Advantages of databases over file system - Answers from class
 * Databases allow large data storage
 * Database data storage is less expensive that file system
 * Data stored in databases are more secure than the file system in the sense that natural disasters such as fire, flood cannot destroy them 

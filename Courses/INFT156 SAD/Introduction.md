@@ -1,6 +1,6 @@
 # SYSTEM DESIGN AND ANALYSIS
 
-**System** is an organized relationship of Inter-related components that are linked together according to plan to achieve a common cause
+**System** is an organized relationship of Inter-related components that are linked together according to plan to work together to achieve a common cause
 
 **System Development** is a systematic process which includes planning, analysis, design, deployment and maintenance of systems
 
@@ -18,13 +18,13 @@ IMAGE TO BE PLACED HERE
 ### CONSTRAINTS OF SYSTEMS
 *Every system has 3 constraints*
 * Structure and behaviour to achieve objectives
-* Interconnectivity and Interdependenc
+* Interconnectivity and Interdependence
 * Central Objective
 
 
 ### PROPERTIES OF A SYSTEM
 * Organization
 * Interaction
-* Interdependenc
+* Interdependence
 * Integration 
 * Central Objective
