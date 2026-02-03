@@ -26,8 +26,8 @@
 * Database data storage is less expensive that file system
 * Data stored in databases are more secure than the file system in the sense that natural disasters such as fire, flood cannot destroy them 
 * Data stored in databases are easy to access
-* Data stored in databases are easy to update
-* Data stored .....
+* **Easy manipulation**: Data stored in databases are easy to update
+* **Enhanced security**: database storage prevents unauthorized access to stored data
 
 **Advantages Of using DBMS**- Ms. Farida
 * It helps to reduce data redundancy
