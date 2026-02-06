@@ -1,0 +1,1 @@
+**Attenuation** simply means loss of signal strength as data travels from sender to receiver.
