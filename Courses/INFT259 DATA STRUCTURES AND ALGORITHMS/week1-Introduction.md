@@ -1,4 +1,4 @@
-# Data structures and algorithms-Dr. S. O Frimpong
+`# Data structures and algorithms-Dr. S. O Frimpong
 
 ### DURATION: 11 weeks / 3hrs/week
 
