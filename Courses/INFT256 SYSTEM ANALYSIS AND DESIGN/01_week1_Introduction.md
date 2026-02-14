@@ -36,7 +36,7 @@
 * **Central Objective**
 
 ### ELEMENTS OF A SYSTEM
-![Elements of a system](system.png)
+![Elements of a system](D:\Users\IT L200 SEM1\Courses\INFT256 SYSTEM ANALYSIS AND DESIGN\system.png)
 
 * Main aim of a system is to produce output
 * Processor transforms input into output
