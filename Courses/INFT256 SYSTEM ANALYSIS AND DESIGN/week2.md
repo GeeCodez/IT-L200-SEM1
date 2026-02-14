@@ -34,6 +34,8 @@ Probabilistic shows no certain pattern
 
 #### DESIGN
 *answers the question, how to achieve the objectives of the system*
+* develop architecture
+* system specs, database specs
 
 #### IMPLEMENTATION
 * Construct the system, install the system, implement a training plan for users and establish a support plan

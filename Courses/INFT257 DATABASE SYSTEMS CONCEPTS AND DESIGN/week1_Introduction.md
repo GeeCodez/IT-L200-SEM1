@@ -23,7 +23,7 @@
 
 ## Advantages of databases over file system - Answers from class
 * Databases allow large data storage
-* Database data storage is less expensive that file system
+* Database data storage is less expensive than file system
 * Data stored in databases are more secure than the file system in the sense that natural disasters such as fire, flood cannot destroy them 
 * Data stored in databases are easy to access
 * **Easy manipulation**: Data stored in databases are easy to update
