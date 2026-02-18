@@ -4,7 +4,7 @@
 
 **Data**:stored representation of meaningful objects or events.
 
-**Database management systems (DBMS)**A software system that is used to create, maintain, and provide controlled access to user databases
+**Database management systems (DBMS)**A software system that is used to create, maintain, and provide controlled access to user databases.
 
 ## Functions of DMBS - Ms. Farida
 * Defining database 

@@ -1,6 +1,6 @@
 ## USEFUL DEFINITIONS
 
-**Metadata**: data that describes the the properties and context of a user data. eg: data types filed sizes, allowable values, etc. 
+**Metadata**: data that describes the properties and context of a user data. eg: data types filed sizes, allowable values, etc. 
 the object is defined in terms of metadata
 
 ## DISADVANTAGES OF FILE PROCESSING
@@ -50,7 +50,7 @@ the object is defined in terms of metadata
 ## ELEMENT OF THE DATABASE APPROACH 
 ### DATA MODELS
 * A graphical representation of how data is structured and related in a database.
-* bluepring of the database.
+* blueprint of the database.
 * **Enterprise data model**: high level model showing major organizational entities and relationships.
 ![Enterprise data model](/images/enterpriseDataModel.png)
 * **Project Data**: detailed, low level design for building actual database.
