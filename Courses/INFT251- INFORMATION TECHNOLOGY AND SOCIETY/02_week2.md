@@ -17,13 +17,13 @@ People in general considered in relation to the laws,organizations that make it 
 * Groups help us learn the skills, knowledge, and behaviors needed to function as consumers.
 * **Primary groups**: intimate groups we come together with frequently.eg. family, church
 * **Secondary groups**: less intimacy and interation. Less influence.
-* **Formal groups**: organized and defined structure, hierachy based. Roles are assigned.
+* **Formal groups**: have organized and defined structure and hierachy based. Roles are assigned.
 * **Informal groups**: emerge from formal groupsl
 * **Roles**: patterns of behavior expected of an individual in a given social context.
 * **Status**: relative position of a person in a group's social spectrum.
 
 ### Reference Groups
-Groups that serve as a reference for an individual in forming general or specific values.
+Groups that serve as a reference point for an individual in forming general or specific values.
 * **Normative**: influence general or broadly defined values.
 * **Comparative**: benchmark specific attitudes or behaviors.
 * **Indirect**: individuals or groups with whom a person does not have direct contact.
