@@ -15,8 +15,8 @@
 ### WHEN TO USE RAD MODEL?
 1. When time span is short
 2. When requirements are well known
-3. When technical riks is limited
-4. To be used only if budget allows code generation
+3. When technical risks is limited
+4. To be used only if budget allows the use of code generation tools
 
 
 # PROJECT PLANNING
@@ -44,7 +44,7 @@ To plan a successful project, we must understand:
 * Size estimation: essential for estimating other activities
 * Cost estimation 
 * Development time estimation
-* Resources requirment: based on cost and dev't time
+* Resources requirement: based on cost and dev't time
 * Project scheduling: for controlling and monitoring project
 
 **Risks**: an issue that has the potential to cause harm to the project in the future but has not happened yet.

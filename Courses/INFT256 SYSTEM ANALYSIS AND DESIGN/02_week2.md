@@ -5,7 +5,6 @@
 * **The system development lifecycle (SDLC)** is the cost-effective and time-efficient process that development teams use to design and build high-quality systems.
 *It has 4 main stages: planning, analysis, design and implementation.
 
-
 ### PLANNING
 * **Project Initiation**: defining system requirements and feasibility planning
 * **Project management**: develop a work plan, staff project, control and direct project.
@@ -16,7 +15,7 @@
 * *Answers: what should the system do for us? Where and when the system will be used ?*
 
 #### DESIGN
-* develop a design strategy, design architecture and interfaces, develo databases and file specs.
+* develop a design strategy, design architecture and interfaces, develop databases and file specs.
 * Develop the program design.
 * ***Answers**: How will we build the system?*
 
@@ -38,7 +37,7 @@
 
 
 # SYSTEM DEVELOPMENT METHODOLOGIES
-* These refer to a formalized approach to implementing the SLDC.
+* These refer to a formalized approach to implementing the SDLC.
 * Examples: V-model, waterfall, parallel dev, rapid app dev, agile dev.
 
 ## **CATEGORIES OF METHODOLOGIES**

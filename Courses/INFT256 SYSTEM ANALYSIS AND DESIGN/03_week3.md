@@ -4,7 +4,7 @@
 ## WATERFALL MODEL
 * Introduced by Winston Royce
 * Has 5 stages
-* Requirment analysis and specification -> Design, implementation and unit testing -> Integration and system testing -> Operation and maintenance.
+* Requirment analysis and specification -> Design -> implementation and unit testing -> Integration and system testing -> Operation and maintenance.
 ![Stages of waterfall model](images/waterfall_steps.png)
 
 #### REQUIREMENTS ANALYSIS AND SPECIFICATIONS
@@ -52,7 +52,7 @@
 * Developed circles of incremental releases
 * Ealier iterations produce prototypes whiles later produce more complete systems.
 ![Spiral Model](/images/spiral.png)
-* Each cycle is in four parts: Objective setting, Risk assesment and reduction, dev't and valiation (benchmarking,simulation), Planning. 
+* Each cycle is in four parts: Objective setting, Risk assesment and reduction, dev't and validation (benchmarking,simulation), Planning. 
 * It is risk driven. 
 * Cycle ends with a review and planning for the next cycle.
 * Suitable for new dev and system enhancement
@@ -80,7 +80,7 @@ Doesn't work well for smaller projects.
 
 ### PHASES OF VERIFICATION
 1. **Business requirement analysis**
-2. **System Design**: analyse and interpreted the proposed system. 
+2. **System Design**: analyse and interpret the proposed system. 
 3. **Architecture design**
 4. **Module design**: system broken into detailed modules known as **Low level design**
 5. **Coding phase**

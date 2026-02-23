@@ -3,10 +3,10 @@
 ## Why Analytical Reading and Reasoning
 * To prepare students to solve real world problems 
 * To help students to think critically 
-* Real world problems require critical thinking and analytical skills to diagnos
+* Real world problems require critical thinking and analytical skills to diagnose
 
-In short, analytical reading is the skill that makes u do difficult things easily
-* this is beyond comprehension
+In short, analytical reading is the skill that makes u do difficult things easily by using logic.
+* It goes beyond just comprehension
 * It helps you to examine the text you are reading
 * It helps to examine the purpose of the writer
 
@@ -14,7 +14,7 @@ In short, analytical reading is the skill that makes u do difficult things easil
 * It enhances comprehension
 * Helps to develop critical thinking abilities
 * It helps to develop problem solving skills
-* It facilitates communication
+* It facilitates easy communication
 * It broadens your mind towards solving real world issues
 * It facilitates easy communication
 * It boosts academic performance

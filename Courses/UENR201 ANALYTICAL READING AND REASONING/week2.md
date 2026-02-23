@@ -13,12 +13,12 @@
 ### Personal analysis of the social media text
 1. Description:
 * Impact of social media on the education systemm
-* Evaluates social media, its positive and negative sides and cautions a balanced usage of it in education.
+* Evaluates the use of social media, its positive and negative sides and cautions a balanced usage of it in education.
 **MEMORY TRAINING TIP**: *when in bed, try to recollect everything you did in the day in a chronological order till the time u go to bed*
 
 2. Context: education and education
 
-3. Interpreation: 
+3. Interpretation: 
 
 4. Evaluation: its reasonable and valid and the owner is unknown. 
 5. Conclusion

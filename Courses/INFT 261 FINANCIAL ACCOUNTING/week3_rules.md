@@ -5,7 +5,7 @@
 
 *Increase in assets are debits(right side) and decrease in assets are credits(right side) and opposite for liabilities*
 
-*Increase in liability is a credit(right side) and decrase is debit(right side)*
+*Increase in liability is a credit(right side) and decrease is debit(right side)*
 
 ### CAPITAL 
 Owners resources invested in the business is called capital. Owner's account is called **capital account** 
@@ -35,7 +35,7 @@ f. ADB Ltd.                Bank Account
 
 
 ## Expenses
-* *Increase in expenses are debits and increase in expenses are credits*
+* *Increase in expenses are debits and decrease in expenses are credits*
 
 ### SUMMARY
 INCREASE

@@ -20,7 +20,7 @@
 * **Behavior**: How system operates to perform tasks. eg: data flow, etc.
 
 #### Interconnectivity and Interdependence
-* This is essential for efficiency, fucntionality and resilience. 
+* This is essential for efficiency, functionality and resilience. 
 
 #### Central objective has high priority than subsystem objectives
 * Important for the alignment of goals to the central objective.
@@ -42,7 +42,7 @@
 * Processor transforms input into output
 * Control element guides the system. 
 * Feedback provides the control in a dynamic system. Positive encourages performance and negative suggests change of actions
-* Environmen is the external supersystem in which an organization operates, influencing and contraining system functions.
+* Environment is the external supersystem in which an organization operates, influencing and constraining system functions.
 * System boundaries are the limits that define a system’s scope and its interaction with other systems.
 
 ### TYPES OF SYSTEMS

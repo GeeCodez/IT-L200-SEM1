@@ -24,9 +24,9 @@ When a word in a sentence refers to something mentioned somewhere else in the sa
 ## EXOPHORIC
 When the meaning is not inside the text.
 
-**You normally udnerstand them due to**:
+**You normally understand them due to**:
 * History
 * Personal opinions
-* Personal biases and predujices
+* Personal biases and prejudices
 * Cultural background
 * World view
