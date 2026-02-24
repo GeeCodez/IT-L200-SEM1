@@ -72,7 +72,7 @@ the object is defined in terms of metadata
 ![Types of Entiies](images/entityRelation.png)
 
 ### Attributes
-* Properties that describe an entity
+* Properties that describe an entity that are of interest to the organization.
 * Required and Optional attributes
 * Simple and Composite attributes
 * Single valued and Multivalued Attributes

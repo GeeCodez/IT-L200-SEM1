@@ -16,6 +16,15 @@
 * Repeatable
 * Written in standard syntax.
 
+## RELATIONSHIPS
+* They are the association between entities in database
+* Instance is an occurence of relationships between entities.
+* Degree is the number of entities that participate in a relationship
+    - Unary(recursive) - within one entity
+    - Binary - 2 entities involved
+    - Ternary - 3
+
+* **Cardinality**: refers to the number of instances of one entity that relate to instances of another entity.
 
 ## **GET SYMBOLS FOR THE FOLLOWING:**
 * entity
