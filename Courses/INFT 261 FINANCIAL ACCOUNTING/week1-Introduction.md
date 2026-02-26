@@ -70,6 +70,7 @@
 
 ### FINANCIAL ACCOUTING VS MANAGEMENT ACCOUNTING
 | Basis | Financial accounting | Management accounting |
+|-------|----------------------|-----------------------|
 | 1. Purpose of information | For reporting to external users | To provide cost information to management |
 | 2. Scope | describes the whole of the business | Focuses on small parts |
 | 3. Legal requirements | Mandatory for Public limited liability companies | Optionsal |

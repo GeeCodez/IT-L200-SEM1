@@ -1,7 +1,7 @@
 ## RULES OF DEBIT AND CREDIT
 Account name
 
-| Left or Debit side | Right or Credit side |
+Left or Debit side | Right or Credit side 
 
 *Debits are written to the left side and the credits to the right side*
 
@@ -78,7 +78,7 @@ Capital         Credit
 * Obligations of a business as a result of past events settlement of which is expected to result in an economic outflow of amounts from the firm.
 * **Non-current liabilities**: expected to last or paid after one year.
     - long term loans.
-* **Current Liabilities**: Will be paid withing a year.
+* **Current Liabilities**: Will be paid within a year.
     - buying goods on credit, bank overdraft, creditors, trade payables
 
 **Capital is the residual amount on the owner's interest in the firm after deducting liabilities from assets.

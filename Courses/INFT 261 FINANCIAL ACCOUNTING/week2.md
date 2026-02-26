@@ -6,6 +6,7 @@
 
 ### Differences between Bookeeping and Accounting
 | **Bookkeeping** | **Accounting** |
+|-----------------|----------------|
 | identifying, measuring and recording financial transactions | summarizing, interpreting and communicating transactions |
 | Not for decision making | For decision making |
 | Purpose is to keep the records of all transactions proper and systematic | To provide financial situation and communicate it |
