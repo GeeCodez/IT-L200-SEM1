@@ -1,6 +1,6 @@
 # SYSTEM DESIGN AND ANALYSIS
 
-**System** is an organized set of interrelated components that work together according to a defined plan to achieve a common goal.
+**System** is an orderly grouping of interdependent components working together to achieve a common objective
 
 **System Development** is a systematic process which includes planning, analysis, design, deployment and maintenance of systems.
 
@@ -8,7 +8,7 @@
 * Done to identify the objectives of the system
 
 ## System Design 
-* Is the process of planning a new system or replacing an existing by redefining its components to meets its requirements
+* Is the process of planning a new system or replacing an existing by defining its components to meets its requirements
 * Focuses on **how to accomplish the objective of the system**.
 
 **SAD** *mainly focuses on Systems Processes and Technology*

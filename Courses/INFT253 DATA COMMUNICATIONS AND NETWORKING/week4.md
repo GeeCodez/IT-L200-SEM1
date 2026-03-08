@@ -22,8 +22,9 @@ cat6 cables are also twisted pair cables.
 
 **Color coding for the T568B**
 | Pin No | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-| Color | Orange white | Orange | White green | Blue | White Blue | Green | White brown | Brown |
-Pin1(orange/white) Pin2(orange) Pin3(white/green) Pin4(Blue)
+|---|----|---|----|---|---|---|---|---|
+| Color | White Orange | Orange | White green | Blue | White Blue | Green | White brown | Brown |
+Pin1(White/Orange) Pin2(orange) Pin3(white/green) Pin4(Blue)
 PIn5(white/blue)  Pin6(Green) Pin7(white/brown) Pin8(Brown)
 
 ### PROCEDURE

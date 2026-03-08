@@ -1,6 +1,6 @@
 # Rapid Application Development
-* Used to build high quality products at a fast rate
-* Requirments gathering
+* Used to build high quality products at a fast rate. Stages include: 
+* Requirements gathering
 * Prototyping and early iterative testing
 * Reuse of software 
 * Referal of improvements to the next product version
@@ -48,4 +48,5 @@ To plan a successful project, we must understand:
 * Project scheduling: for controlling and monitoring project
 
 **Risks**: an issue that has the potential to cause harm to the project in the future but has not happened yet.
-**Risk management**: is the system of identifying addressing and eliminating potential issues before they can damage the project.
+
+**Risk management**: is the system of identifying, addressing and eliminating potential issues before they can damage the project.

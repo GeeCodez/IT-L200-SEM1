@@ -29,7 +29,8 @@
 * It evolves through gradual refinement
 
 
-#### | PROCESSES | DELIVERABLES |
+| PROCESSES | DELIVERABLES |
+|-------------|------------|
 | 1. Planning | Project Plan |
 | 2. Analysis | System Proposal |
 | 3. Design   | System specs |
@@ -66,7 +67,7 @@
 
 #### Prototyping
 * Mock project of the actual project
-* ![Prototyping](prototype.png)
+* ![Prototyping](/images/prototype.png)
 
 #### Throwaway prototyping
 ![throwaway prototyping](images/throwaway_prototype.png)
@@ -75,5 +76,5 @@
 * Extreme programming
 ![Extreme Programming](images/agile.png)
 
-#### SELECTING THE RIGHT METHODOLGY 
+### SELECTING THE RIGHT METHODOLGY 
 ![Right Methodology](images/right_methodology.png)

@@ -16,11 +16,12 @@
 * **Circular**: last node points to the first node. Can be in both singly and doubly
 
 ### STATIC REPRESENTATION OF LINKED LIST
-|Data|      |Link|
-0 | 21 |->| 1 |
-1 | 14 |->| 5 |
-2 | 18 |->| Null |
-3 | 12 |->| 4 |
-4 | 6 |->| 2 |
-5 | 32 |->| 3 |
+|Index|Data|Link|Location|
+|----|---|---|----|
+| 0 | 21 |->| 1 |
+| 1 | 14 |->| 5 |
+| 2 | 18 |->| Null |
+| 3 | 12 |->| 4 |
+| 4 | 6 |->| 2 |
+| 5 | 32 |->| 3 |
 

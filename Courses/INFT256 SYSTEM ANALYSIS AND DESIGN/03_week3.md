@@ -89,5 +89,5 @@ Doesn't work well for smaller projects.
 1. **Unit testing**
 2. **Integration testing**: during architectural design phase
 3. **System testing**: Done by the clients business team. Checks if expectations are met
-3. **Acceptance Testing**: Related to business analysis. Done in the user atmosphere
-4. Discovers non-functional problems like load and performance defects with the real user.
+4. **Acceptance Testing**: Related to business analysis. Done in the user atmosphere
+    - Discovers non-functional problems like load and performance defects with the real user.
