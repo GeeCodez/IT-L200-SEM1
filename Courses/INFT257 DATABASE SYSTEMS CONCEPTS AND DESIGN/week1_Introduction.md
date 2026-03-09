@@ -1,6 +1,6 @@
 # DATABASE SYSTEMS, CONCEPTS AND DESIGN - Dr. MICHAEL OPOKU
 
-**Database**: an organized collection of related data in a computer for easy access, retrieval and manipulation. Examples: university data, hospital data, school data.
+**Database**: an organized collection of related data stored in a computer for easy access, retrieval and manipulation. Examples: university data, hospital data, school data.
 
 **Data**:stored representation of meaningful objects or events.
 

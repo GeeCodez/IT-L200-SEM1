@@ -26,7 +26,7 @@ the object is defined in terms of metadata
 *The solution to all problems of file system is DATABASE SYSTEM*
 
 ## DATABASE MANAGEMENT SYSTEMS 
-
+Are software that are used to create, maintain and control access to data stored in a database.
 
 ### ADVANTAGES OF THE DATABASE APPROACH
 * Program data independence
@@ -42,7 +42,7 @@ the object is defined in terms of metadata
 
 ### RISKS OF THE DATABASE APPROACH
 * New specialized personel. eg: database admins, sql experts,.
-* Installationa and management cost and complexity. eg, machines, network setup, security systems, etc.
+* Installations and management cost and complexity. eg, machines, network setup, security systems, etc.
 * conversion cost: eg: rewriting programs, training staff.
 * Need for explicit backup and recovery. 
 * Organization conflict: policy disagreements,power struggles.
